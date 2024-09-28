@@ -1,3 +1,7 @@
+# About the App
+Movie App 🎬
+This Movie App is a React-based web application that allows users to search for movies, view detailed information such as ratings, synopsis, and release date, and explore various genres. It integrates with a public movie database API to fetch real-time movie data. The app provides a clean, responsive UI and features like movie recommendations and search filtering.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
